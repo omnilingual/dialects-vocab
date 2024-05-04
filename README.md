@@ -8,7 +8,7 @@
 
 ## 目錄
 
-- [中原官話 - 魯西南 - 菏澤話](southwest-lu-vocab.md)
+- [中原官話 - 兖菏片 - 菏澤話](heze.md)
 - [北京官話](beijing.md)
 
 ## 注意事項
