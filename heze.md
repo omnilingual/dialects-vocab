@@ -8,16 +8,23 @@
 
 ## 正字已知
 
+- ### **拌**　ㄅㄢˇ　bǎn
+
+  丟棄；扔（垃圾）。  
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=2074)。
+
+  > 這件衣服很破了，～了吧。
+
 - ### **撥拉**　ㄅㄨˊㄌㄚ˙　bú la
 
   撥動；撥開；拂拭。  
-  見于[現代漢語方言大詞典第5388頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=5388)。
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=5388)。
 
   > 你頭上掛了個葉子，我幫你～掉。
 
 - ### **媽媽**　ㄇㄚㄇㄚ˙　mā ma
 
-  ①乳房；乳汁；  
+  ①乳房；乳汁。  
   ②新派稱母親。
 
   > 小兒餓啦，哭著要吃～①呢。
@@ -30,8 +37,8 @@
 
 - ### **㧅**　ㄉㄠ　dāu
 
-  ①用筷子夾；  
-  　見于[現代漢語方言大詞典第868頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=868)。  
+  ①用筷子夾。  
+  　見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=868)。  
   ②用喙啄。
 
   > 菜齊了，趕快～①菜吃啊！  
@@ -46,7 +53,7 @@
 - ### **單門~ㄦ~**　ㄉㄢㄇㄣㄦ˙　dān menr
 
   專門地；特意地；故意地。  
-  見于[現代漢語方言大詞典第4343頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=4343)。
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=4343)。
 
   > 這狗～惹恁嘞！不用理它。
 
@@ -64,7 +71,7 @@
 
 - ### **擓**　ㄎㄨㄞˇ　kuǎi
 
-  ①撓癢；  
+  ①撓癢。  
   ②與「舀」類似，但僅用于鏟起固體。
 
   > 我的後背癢，但～①不到。  
@@ -79,14 +86,14 @@
 - ### **脊梁**　ㄐㄧㄋㄧㄤ˙　jī niang
 
   泛指臂膀、上身。  
-  見于[現代漢語方言大詞典第3401頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=3401)。
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=3401)。
 
   > 天忒熱了，他在家都光著～。
 
 - ### **起火子**　ㄑㄧˊㄏㄨㄛㄉㄜ　qí huo de
 
   一種綁在長稈的手持煙花，升空時伴有尖銳響聲，不爆炸。  
-  見于[現代漢語方言大詞典第3043頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=3043)。
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=3043)。
 
 - ### **掀**　ㄒㄧㄢ／ㄒㄧㄢˇ　xiān/xiǎn
 
@@ -98,7 +105,7 @@
 - ### **一崩~ㄦ~**　ㄧˋㄅㄥㄦ　yì bēngr
 
   一段時間；一陣子。  
-  見于[現代漢語方言大詞典第45頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=45)。
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=45)。
 
   > 這～很困難，咬咬牙挺過去。
 
@@ -111,21 +118,15 @@
 - ### **窩**　ㄨㄛ　wō
 
   使彎折。  
-  見于[現代漢語方言大詞典第5012頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=5012)。
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=5012)。
 
   > 把這個鐵絲～成圈。
 
 ## 正字未知
 
-- ### **ㄅㄢˇ**　bǎn　拚
-
-  丟棄；扔（垃圾）。
-
-  > 這件衣服很破了，～了吧。
-
 - ### **ㄅㄤˋ**　bàng　曝
 
-  ①落灰；  
+  ①落灰。  
   ②揚塵。  
   另見[北京話「爆腾」](./beijing.md#爆腾)。
 
@@ -155,7 +156,7 @@
 
 - ### **ㄋㄧㄠˇ**　niǎu　繞
 
-  ①絲線纏繞在一起；  
+  ①絲線纏繞在一起。  
   ②異物捲入旋轉的機械中。
 
   > 耳機線常常會～①成一團。  
@@ -164,7 +165,7 @@
 - ### **ㄌㄞ**　lāi　來
 
   ①（開始）做；幹。  
-  　見于[現代漢語方言大詞典第2178頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=2178)；  
+  　見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=2178)；  
   ②【～牌】打麻將。  
   ③【～錢】賭錢。
 
@@ -205,7 +206,7 @@
 - ### **ㄖㄡ**　rōu
 
   將繩子或類似繩子的物體掄起，在空中畫圓。  
-  見于[現代漢語方言大詞典第6500頁](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=6500)。
+  見收錄于[方言大詞典](http://www.kaom.net/img.php?b=fy_xdhyfydcd&p=6500)。
 
   > 把鏈球～起來是為了飛得更遠。
 
